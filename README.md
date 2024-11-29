@@ -16,9 +16,11 @@ Hello and welcome to my GitHub profile! 🚀
 | **Tools**             | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white) |
 | **Other**             | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  |
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats (lol)
 
-![arahnik](https://github-readme-stats.vercel.app/api?tumbler-cp=tumbler-cp&show_icons=true&theme=radical)
+![tumbler-cp's Stats](https://github-readme-stats.vercel.app/api?username=tumbler-cp&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+
+![tumbler-cp's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tumbler-cp&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 ## 📫 How to Reach Me
 
