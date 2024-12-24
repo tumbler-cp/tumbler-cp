@@ -36,5 +36,6 @@ Hello and welcome to my GitHub profile!
 ## How to Reach Me
 
 - Email: [abdujalol04@mail.ru]
+- Telegram: [t.me/arahnovuk]
 
 Thanks for visiting my profile! Feel free to explore my repositories and reach out if you have any questions.
