@@ -4,8 +4,6 @@ Hello and welcome to my GitHub profile!
 
 ## About Me
 
-## About Me
-
 - **Interests**: Game development, Web Development, System software, Embedded systems.
 - **Enjoys working with**:
 
