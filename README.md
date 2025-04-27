@@ -17,7 +17,7 @@ Hello and welcome to my GitHub profile!
 
 ## Tech Stack
 
-### 🗣️ Languages
+### Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
@@ -26,12 +26,12 @@ Hello and welcome to my GitHub profile!
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![F#](https://img.shields.io/badge/F%23-378BBA?style=for-the-badge&logo=fsharp&logoColor=white)
 
-### � Frameworks/Libraries
+### Frameworks/Libraries
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### 🛠️ Tools
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
@@ -40,7 +40,7 @@ Hello and welcome to my GitHub profile!
 ![Ansible](https://img.shields.io/badge/ansible-CB3837?style=for-the-badge&logo=ansible&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-3D90D7?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-### 🖥️ Other
+### Other
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
@@ -55,7 +55,7 @@ Hello and welcome to my GitHub profile!
 
 ---
 
-## 📫 How to Reach Me
+## How to Reach Me
 
 - **Email**: [abdujalol04@mail.ru](mailto:abdujalol04@mail.ru)
 - **Telegram**: [@arahnovuk](https://t.me/arahnovuk)
